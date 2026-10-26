@@ -4,7 +4,7 @@
      <remote name="gh" fetch="https://github.com" />
 
      <!-- Device tree (fork of OnePlus-SM8850-Development) -->
-     <project name="cfernande1408/android_device_oneplus_macan" path="device/oneplus/macanc" remote="gh" revision="lineage-24.0" />
+     <project name="Weijcc/android_device_oneplus_macanc" path="device/oneplus/macanc" remote="gh" revision="lineage-24.0" />
 
      <!-- LineageOS -->
      <project name="LineageOS/android_device_oneplus_sm8850-common" path="device/oneplus/sm8850-common" remote="gh" revision="lineage-24.0" />
