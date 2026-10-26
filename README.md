@@ -5,7 +5,7 @@
 ```bash
 repo init -u https://github.com/LineageOS/android.git -b lineage-24.0 --git-lfs --no-clone-bundle
 mkdir -p .repo/local_manifests
-curl -L https://raw.githubusercontent.com/cfernande1408/local_manifests_macanc/lineage-24.0/macanc.xml \
+curl -L https://raw.githubusercontent.com/Weijcc/manifests_macanc/lineage-24.0/macanc.xml \
   -o .repo/local_manifests/macanc.xml
 repo sync -c -j8 --force-sync --no-tags --no-clone-bundle
 ```
